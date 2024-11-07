@@ -22,3 +22,8 @@ console.log(numbers);
 console.log(numbers.pop());
 console.log(numbers);
 ////// contents after x3 pop is 1,2,3,4,5,6,7
+
+///part4
+
+let mystring = "hello";
+console.log(mystring.length);
